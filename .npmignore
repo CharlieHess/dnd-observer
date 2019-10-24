@@ -1,12 +1,6 @@
 spec
 script
-src/keyboard-layout.coffee
-*.coffee
 .npmignore
 .DS_Store
 npm-debug.log
-.travis.yml
-appveyor.yml
-.pairs
-.coffee
 build/
